@@ -21,7 +21,7 @@ This project is a **Time Series Forecasting Model** built using Python to predic
 ## 📌 How to Run  
 1. Download the dataset from Kaggle.  
 2. Install dependencies:  
-   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras1. Download the dataset from Kaggle.  
+   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras  
 3. Open the Jupyter Notebook (`Beer Production Forecast.ipynb`).  
 4. Run the notebook to train and test the model.  
 
