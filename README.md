@@ -21,5 +21,16 @@ This project is a **Time Series Forecasting Model** built using Python to predic
 ## 📌 How to Run  
 1. Download the dataset from Kaggle.  
 2. Install dependencies:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
+   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras1. Download the dataset from Kaggle.  
+3. Open the Jupyter Notebook (`Beer Production Forecast.ipynb`).  
+4. Run the notebook to train and test the model.  
+
+## 📌 Dataset  
+[[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/sergiomora823/monthly-beer-production))  
+
+## 📌 Author  
+HashanPavi
+
+---
+
+### 🚀 Happy Coding!  
