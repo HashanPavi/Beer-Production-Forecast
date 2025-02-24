@@ -26,7 +26,7 @@ This project is a **Time Series Forecasting Model** built using Python to predic
 4. Run the notebook to train and test the model.  
 
 ## 📌 Dataset  
-[[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/sergiomora823/monthly-beer-production))  
+[https://www.kaggle.com/datasets/sergiomora823/monthly-beer-production)  
 
 ## 📌 Author  
 HashanPavi
